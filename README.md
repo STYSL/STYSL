@@ -6,5 +6,5 @@ Here are some ideas to get you started:-->
 - 🔭 I’m currently working on building up my resume/portfolio: https://stysl.xyz
 - 👯 I’m looking to collaborate on webdev projects and find clients to provide website services for.
 - 📫 How to reach me: rustique@stysl.xyz
-- ⚡ Fun fact: I play the drums.
+- ⚡ Fun fact: I play the drums!
 
