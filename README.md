@@ -3,7 +3,7 @@
 **STYSL/STYSL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:-->
 - 🌱 I’m currently working on:
-  1. Salesforce Certified Administrator Certificate 
+  1. Salesforce Certified Administrator Certificate <br> 
      My Trailblazer profile: https://www.salesforce.com/trailblazer/a8ht98x8jakh320p4n
   2. CompTIA Security+ Certification
   3. Google UX Design Certificate
