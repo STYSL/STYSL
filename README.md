@@ -7,8 +7,8 @@ Here are some ideas to get you started:-->
      My Trailblazer profile: https://www.salesforce.com/trailblazer/a8ht98x8jakh320p4n
   2. Understanding Cybersecurity more and reading the<br> 
      <i>"Official CompTIA Security+ Study Guide"</i><br>
-     to prepare for the <em>CompTIA Security+ Certification<em> exam.
-  3. Enrolling in the <em>Google UX Design Certificate<em> and starting in June.
+     to prepare for the <strong>CompTIA Security+ Certification</strong> exam.
+  3. Enrolling in the <strong>Google UX Design Certificate</strong> and starting in June.
 - 🔭 My personal site/resume/portfolio: https://stysl.xyz
 - 👯 I’m looking to collaborate on webdev projects and find clients to provide website services for.
 - 📫 How to reach me: rustique@stysl.xyz
