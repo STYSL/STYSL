@@ -6,7 +6,7 @@ Here are some ideas to get you started:-->
   1. Completing the <em>Salesforce Certified Administrator Certificate<em><br> 
      My Trailblazer profile: https://www.salesforce.com/trailblazer/a8ht98x8jakh320p4n
   2. Understanding Cybersecurity more and reading the<br> 
-     <i>"Official CompTIA Security+ Study Guide"<i><br>
+     <i>"Official CompTIA Security+ Study Guide"</i><br>
      to prepare for the <em>CompTIA Security+ Certification<em> exam.
   3. Enrolling in the <em>Google UX Design Certificate<em> and starting in June.
 - 🔭 My personal site/resume/portfolio: https://stysl.xyz
