@@ -11,6 +11,6 @@ Here are some ideas to get you started:
   3. Enrolling in the <strong>Google UX Design Certificate</strong> and starting in June.-->
 - 🔭 My personal site/resume/portfolio: https://stysl.xyz
 - 👯 I’m looking to step into UX, web development, or content management roles.
-- 📫 How to reach me: rustique@stysl.xyz
+- 📫 How to reach me: rustique@stysl.xyz | https://www.linkedin.com/in/frustique
 - ⚡ Fun fact: I play the drums!
 
