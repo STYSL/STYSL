@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 🔭 My personal site/resume/portfolio: https://stysl.xyz
 - 👯 Currently working on creating workflows and applications on the MS365 Power Platform.
 - 📫 How to reach me: rustique@stysl.xyz | https://www.linkedin.com/in/frustique
-- ⚡ Fun fact: I play the drums!
+- ⚡ Fun fact: I play the drums, and with keys and hardware, I like producing music.
 
